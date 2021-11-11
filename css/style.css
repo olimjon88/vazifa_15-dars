@@ -346,9 +346,8 @@ main .ota .card p {
 
 .wrap-box .icon-div {
   position: absolute;
-  top: 0;
+  top: 36%;
   left: 21%;
-  line-height: 442px;
 }
 
 .wrap-box .icon-div i {
@@ -543,7 +542,7 @@ footer .wrapper .container .box button {
   color: white;
   padding: 10px 20px;
   border-radius: 5px;
-  outline: none;
+  border: 1px solid #ffa62b;
 }
 
 footer .wrapper .container .box p:nth-of-type(1) {
@@ -697,9 +696,8 @@ footer .wrapper .container .box p:nth-of-type(2) {
 
   .wrap-box .icon-div {
     position: absolute;
-    top: 0;
+    top: 30%;
     left: 41%;
-    line-height: 225px;
   }
 
   .wrap-box .icon-div i {
@@ -890,9 +888,8 @@ footer .wrapper .container .box p:nth-of-type(2) {
 
   .wrap-box .icon-div {
     position: absolute;
-    top: 0;
+    top: 30%;
     left: 40%;
-    line-height: 400px;
   }
 
   .wrap-box .box {
@@ -1069,9 +1066,8 @@ footer .wrapper .container .box p:nth-of-type(2) {
 
   .wrap-box .icon-div {
     position: absolute;
-    top: 0;
+    top: 35%;
     left: 45%;
-    line-height: 450px;
   }
 
   .wrap-box .box {
